@@ -1,0 +1,16 @@
+.container {
+  display: inline-flex;
+  align-items: center;
+}
+
+.swatch {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+}
+
+.label {
+  text-transform: capitalize;
+  font: var(--font-body3);
+  color: var(--color-dark-900);
+}

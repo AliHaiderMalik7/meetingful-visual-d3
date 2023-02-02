@@ -1,0 +1,42 @@
+.container {
+  position: relative;
+}
+
+.fixedSvg {
+  position: absolute;
+  z-index: 1;
+}
+
+.scrollable {
+  overflow-x: auto;
+}
+
+.axisHalo line,
+.axisHalo text {
+  stroke: var(--color-white);
+  stroke-width: 3px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.axis line {
+  color: var(--color-outline);
+}
+
+.axis text {
+  font: var(--font-body4);
+  color: var(--color-dark-700);
+}
+
+.dotRect {
+  stroke: transparent;
+  stroke-width: 2px;
+}
+
+.dotRect:hover {
+  stroke: var(--color-dark-900);
+}
+
+.hotSpotRect {
+  fill: var(--color-secondary-100);
+}

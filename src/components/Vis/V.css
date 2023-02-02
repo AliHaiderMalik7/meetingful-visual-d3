@@ -1,0 +1,29 @@
+.v {
+  --font-h1: 400 30px/24px "Poppins", sans-serif;
+  --font-h2: 500 20px/24px "Poppins", sans-serif;
+  --font-h3: 700 16px/24px "Poppins", sans-serif;
+  --font-h4: 500 16px/24px "Poppins", sans-serif;
+  --font-body1: 400 16px/24px "Poppins", sans-serif;
+  --font-body2: 500 14px/21px "Poppins", sans-serif;
+  --font-body3: 400 14px/21px "Poppins", sans-serif;
+  --font-body4: 500 12px/18px "Poppins", sans-serif;
+  --font-body5: 400 10px/15px "Poppins", sans-serif;
+
+  --color-primary-900: #133a5d;
+  --color-primary-500: #2f9bff;
+  --color-secondary-800: #275e88;
+  --color-secondary-400: #6ab8ff;
+  --color-secondary-300: #9bcfff;
+  --color-secondary-100: #d7f7ff;
+  --color-dark-900: #131313;
+  --color-dark-700: #4b4b4b;
+  --color-dark-500: #a2a2a2;
+  --color-dark-300: #dadada;
+  --color-dark-100: #efefef;
+  --color-white: #ffffff;
+  --color-outline: #c7cad8;
+  --color-positive: #87e192;
+  --color-neutral: #9bbeb1;
+  --color-negative: #fa9a8b;
+  --color-error: #e70c25;
+}

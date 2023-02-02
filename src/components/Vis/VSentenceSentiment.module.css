@@ -1,0 +1,48 @@
+.container {
+  color: var(--color-dark-900);
+}
+
+.speaker {
+  font: var(--font-body2);
+  margin-bottom: 4px;
+}
+
+.startTime {
+  font: var(--font-body4);
+  color: var(--color-secondary-800);
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 1px 5px;
+  gap: 4px;
+  border: 1px solid var(--color-secondary-800);
+  border-radius: 999px;
+  margin-bottom: 8px;
+}
+
+.timeIcon {
+  width: 13px;
+  height: 13px;
+}
+
+.text {
+  font: var(--font-body4);
+  line-height: 21px;
+}
+
+.text mark {
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+.text mark.positive {
+  background-color: var(--color-positive);
+}
+
+.text mark.neutral {
+  background-color: var(--color-neutral);
+}
+
+.text mark.negative {
+  background-color: var(--color-negative);
+}

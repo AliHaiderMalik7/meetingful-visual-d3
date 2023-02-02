@@ -1,0 +1,81 @@
+.container {
+  position: relative;
+}
+
+.group {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 16px;
+  gap: 16px;
+  border-radius: 4px;
+  border-radius: 4px;
+}
+
+.group:nth-child(2n + 1) {
+  background-color: var(--color-dark-100);
+}
+
+.groupName {
+  flex-basis: 240px;
+  flex-grow: 1;
+  font: var(--font-body2);
+  color: var(--color-dark-900);
+  text-transform: capitalize;
+}
+
+.groupBars {
+  flex-basis: 0;
+  flex-grow: 9999;
+  min-width: 75%;
+  display: grid;
+  gap: 12px;
+}
+
+.bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 16px;
+}
+
+.barName {
+  flex-basis: 240px;
+  flex-grow: 1;
+  font: var(--font-body2);
+  color: var(--color-dark-900);
+  text-transform: capitalize;
+  text-align: right;
+}
+
+.barContainer {
+  flex-basis: 0;
+  flex-grow: 9999;
+  min-width: 60%;
+  height: 24px;
+  position: relative;
+}
+
+.barFill {
+  position: absolute;
+  background-color: var(--color-secondary-400);
+  height: 100%;
+  border-radius: 4px;
+  border: 2px solid transparent;
+}
+
+.barFill:hover {
+  border-color: var(--color-dark-900);
+}
+
+.barLabel {
+  position: absolute;
+  font: var(--font-body2);
+  line-height: 24px;
+  color: var(--color-dark-900);
+  padding-right: 6px;
+  pointer-events: none;
+}
+
+.tooltipKey {
+  text-transform: capitalize;
+}

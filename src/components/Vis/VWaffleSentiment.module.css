@@ -1,0 +1,64 @@
+.container {
+  position: relative;
+  display: grid;
+}
+
+.group {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  padding: 16px;
+  gap: 16px;
+  border-radius: 4px;
+  border-radius: 4px;
+}
+
+.group:nth-child(2n + 1) {
+  background-color: var(--color-dark-100);
+}
+
+.groupName {
+  flex-basis: 240px;
+  flex-grow: 1;
+  font: var(--font-body2);
+  color: var(--color-dark-900);
+  text-transform: capitalize;
+}
+
+.groupNameCountBreakdownItem {
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+.groupSentiments {
+  flex-basis: 0;
+  flex-grow: 9999;
+  min-width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.group .groupSentiments > * {
+  flex-grow: 0;
+  flex-basis: 200px;
+}
+
+.group .groupSentiment {
+  display: grid;
+  grid-template-columns: repeat(10, 20px);
+  grid-auto-rows: 20px;
+  align-items: center;
+  justify-items: center;
+}
+
+.waffleRect {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  border: 2px solid transparent;
+}
+
+.waffleRect:hover {
+  border-color: var(--color-dark-900);
+}

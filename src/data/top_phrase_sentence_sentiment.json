@@ -1,0 +1,735 @@
+[
+  {
+    "phrase": "action plan",
+    "count": 28,
+    "pos_count": 18,
+    "neg_count": 0,
+    "neu_count": 10,
+    "sent_uid_list": [
+      "sent_301_295",
+      "sent_301_317",
+      "sent_301_323",
+      "sent_301_325",
+      "sent_301_327",
+      "sent_301_393",
+      "sent_301_399",
+      "sent_301_401",
+      "sent_301_402",
+      "sent_301_404",
+      "sent_301_408",
+      "sent_301_409",
+      "sent_301_428",
+      "sent_301_429",
+      "sent_301_467",
+      "sent_301_468",
+      "sent_301_469",
+      "sent_301_476",
+      "sent_301_478",
+      "sent_301_481",
+      "sent_301_503",
+      "sent_301_505",
+      "sent_301_528",
+      "sent_301_531",
+      "sent_301_532",
+      "sent_301_533",
+      "sent_301_551",
+      "sent_301_554"
+    ],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Sarah Niman- NWAC",
+      "Sarah Niman- NWAC"
+    ],
+    "sentence_start_list": [
+      2687370, 2956830, 3025050, 3048960, 3068550, 3679890, 3748920, 3765360,
+      3783690, 3808590, 3858090, 3880620, 4090110, 4101960, 4496820, 4513620,
+      4539450, 4629330, 4656060, 4678440, 4931310, 4948260, 5152680, 5164020,
+      5181480, 5193600, 5391210, 5423640
+    ],
+    "sentence_sentiment_list": [
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "un declaration",
+    "count": 14,
+    "pos_count": 10,
+    "neg_count": 0,
+    "neu_count": 4,
+    "sent_uid_list": [
+      "sent_301_233",
+      "sent_301_234",
+      "sent_301_272",
+      "sent_301_294",
+      "sent_301_300",
+      "sent_301_312",
+      "sent_301_316",
+      "sent_301_389",
+      "sent_301_390",
+      "sent_301_392",
+      "sent_301_395",
+      "sent_301_396",
+      "sent_301_397",
+      "sent_301_408"
+    ],
+    "sentence_speaker_list": [
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada"
+    ],
+    "sentence_start_list": [
+      2046900, 2056980, 2430480, 2675760, 2725050, 2900070, 2937030, 3638850,
+      3656520, 3674190, 3699600, 3719580, 3730500, 3858090
+    ],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "indigenous partners",
+    "count": 13,
+    "pos_count": 10,
+    "neg_count": 0,
+    "neu_count": 3,
+    "sent_uid_list": [
+      "sent_301_195",
+      "sent_301_323",
+      "sent_301_326",
+      "sent_301_327",
+      "sent_301_335",
+      "sent_301_338",
+      "sent_301_408",
+      "sent_301_463",
+      "sent_301_465",
+      "sent_301_468",
+      "sent_301_491",
+      "sent_301_532",
+      "sent_301_569"
+    ],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada"
+    ],
+    "sentence_start_list": [
+      1733310, 3025050, 3059250, 3068550, 3177570, 3226350, 3858090, 4451280,
+      4467540, 4513620, 4798560, 5181480, 5567190
+    ],
+    "sentence_sentiment_list": [
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "annual report",
+    "count": 11,
+    "pos_count": 4,
+    "neg_count": 1,
+    "neu_count": 8,
+    "sent_uid_list": [
+      "sent_301_317",
+      "sent_301_318",
+      "sent_301_319",
+      "sent_301_321",
+      "sent_301_393",
+      "sent_301_406",
+      "sent_301_491",
+      "sent_301_493",
+      "sent_301_498",
+      "sent_301_502",
+      "sent_301_503",
+      "sent_301_506",
+      "sent_301_513"
+    ],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Sarah Niman- NWAC"
+    ],
+    "sentence_start_list": [
+      2956830, 2973240, 2990310, 3009600, 3679890, 3830880, 4798560, 4820280,
+      4876560, 4921260, 4931310, 4970220, 5039430
+    ],
+    "sentence_sentiment_list": [
+      "NEUTRAL",
+      "NEGATIVE",
+      "NEUTRAL",
+      "NEUTRAL",
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "declaration act",
+    "count": 9,
+    "pos_count": 7,
+    "neg_count": 0,
+    "neu_count": 2,
+    "sent_uid_list": [
+      "sent_301_233",
+      "sent_301_270",
+      "sent_301_272",
+      "sent_301_294",
+      "sent_301_312",
+      "sent_301_316",
+      "sent_301_335",
+      "sent_301_395",
+      "sent_301_505"
+    ],
+    "sentence_speaker_list": [
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [
+      2046900, 2404170, 2430480, 2675760, 2900070, 2937030, 3177570, 3699600,
+      4948260
+    ],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "un declaration act",
+    "count": 6,
+    "pos_count": 4,
+    "neg_count": 0,
+    "neu_count": 2,
+    "sent_uid_list": [
+      "sent_301_233",
+      "sent_301_272",
+      "sent_301_294",
+      "sent_301_312",
+      "sent_301_316",
+      "sent_301_395"
+    ],
+    "sentence_speaker_list": [
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada"
+    ],
+    "sentence_start_list": [
+      2046900, 2430480, 2675760, 2900070, 2937030, 3699600
+    ],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "information session",
+    "count": 6,
+    "pos_count": 5,
+    "neg_count": 0,
+    "neu_count": 1,
+    "sent_uid_list": [
+      "sent_301_257",
+      "sent_301_273",
+      "sent_301_275",
+      "sent_301_298",
+      "sent_301_300",
+      "sent_301_540"
+    ],
+    "sentence_speaker_list": [
+      "Laura Ezeuka-NWAC",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [
+      2309700, 2450730, 2469960, 2708910, 2725050, 5244540
+    ],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "indigenous women",
+    "count": 6,
+    "pos_count": 4,
+    "neg_count": 1,
+    "neu_count": 1,
+    "sent_uid_list": [
+      "sent_301_274",
+      "sent_301_378",
+      "sent_301_434",
+      "sent_301_480",
+      "sent_301_499",
+      "sent_301_501"
+    ],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [
+      2461980, 3559020, 4147560, 4668300, 4883910, 4909140
+    ],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "NEGATIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "federal laws",
+    "count": 6,
+    "pos_count": 6,
+    "neg_count": 0,
+    "neu_count": 0,
+    "sent_uid_list": [
+      "sent_301_392",
+      "sent_301_408",
+      "sent_301_411",
+      "sent_301_414",
+      "sent_301_424",
+      "sent_301_428"
+    ],
+    "sentence_speaker_list": [
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada"
+    ],
+    "sentence_start_list": [
+      3674190, 3858090, 3899940, 3945930, 4057290, 4090110
+    ],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "indigenous peoples",
+    "count": 6,
+    "pos_count": 4,
+    "neg_count": 0,
+    "neu_count": 2,
+    "sent_uid_list": [
+      "sent_301_396",
+      "sent_301_397",
+      "sent_301_401",
+      "sent_301_406",
+      "sent_301_414",
+      "sent_301_431"
+    ],
+    "sentence_speaker_list": [
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada"
+    ],
+    "sentence_start_list": [
+      3719580, 3730500, 3765360, 3830880, 3945930, 4124340
+    ],
+    "sentence_sentiment_list": [
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "consistency of laws",
+    "count": 6,
+    "pos_count": 5,
+    "neg_count": 0,
+    "neu_count": 1,
+    "sent_uid_list": [
+      "sent_301_408",
+      "sent_301_410",
+      "sent_301_412",
+      "sent_301_418",
+      "sent_301_429",
+      "sent_301_505"
+    ],
+    "sentence_speaker_list": [
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [
+      3858090, 3890910, 3909870, 3988410, 4101960, 4948260
+    ],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "NEUTRAL",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "justice canada",
+    "count": 5,
+    "pos_count": 5,
+    "neg_count": 0,
+    "neu_count": 0,
+    "sent_uid_list": [
+      "sent_301_165",
+      "sent_301_221",
+      "sent_301_253",
+      "sent_301_413",
+      "sent_301_460"
+    ],
+    "sentence_speaker_list": [
+      "Tech Support | Soutien Technique",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [1558800, 1915770, 2263590, 3932670, 4405380],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "critical path",
+    "count": 5,
+    "pos_count": 2,
+    "neg_count": 2,
+    "neu_count": 0,
+    "sent_uid_list": [
+      "sent_301_318",
+      "sent_301_320",
+      "sent_301_324",
+      "sent_301_331"
+    ],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [2973240, 3002250, 3038700, 3128910],
+    "sentence_sentiment_list": ["NEGATIVE", "NEGATIVE", "POSITIVE", "POSITIVE"]
+  },
+  {
+    "phrase": "native women",
+    "count": 5,
+    "pos_count": 3,
+    "neg_count": 0,
+    "neu_count": 2,
+    "sent_uid_list": [
+      "sent_301_357",
+      "sent_301_417",
+      "sent_301_426",
+      "sent_301_432",
+      "sent_301_452"
+    ],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada"
+    ],
+    "sentence_start_list": [3374910, 3982860, 4069980, 4131630, 4322280],
+    "sentence_sentiment_list": [
+      "POSITIVE",
+      "POSITIVE",
+      "NEUTRAL",
+      "NEUTRAL",
+      "POSITIVE"
+    ]
+  },
+  {
+    "phrase": "first annual report",
+    "count": 4,
+    "pos_count": 2,
+    "neg_count": 1,
+    "neu_count": 1,
+    "sent_uid_list": [
+      "sent_301_318",
+      "sent_301_321",
+      "sent_301_491",
+      "sent_301_493"
+    ],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [2973240, 3009600, 4798560, 4820280],
+    "sentence_sentiment_list": ["NEGATIVE", "NEUTRAL", "POSITIVE", "POSITIVE"]
+  },
+  {
+    "phrase": "association of canada",
+    "count": 4,
+    "pos_count": 2,
+    "neg_count": 0,
+    "neu_count": 2,
+    "sent_uid_list": [
+      "sent_301_417",
+      "sent_301_426",
+      "sent_301_432",
+      "sent_301_452"
+    ],
+    "sentence_speaker_list": [
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada",
+      "Celine Henry Justice Canada"
+    ],
+    "sentence_start_list": [3982860, 4069980, 4131630, 4322280],
+    "sentence_sentiment_list": ["POSITIVE", "NEUTRAL", "NEUTRAL", "POSITIVE"]
+  },
+  {
+    "phrase": "draft action plan",
+    "count": 4,
+    "pos_count": 3,
+    "neg_count": 0,
+    "neu_count": 0,
+    "sent_uid_list": ["sent_301_528", "sent_301_532", "sent_301_533"],
+    "sentence_speaker_list": [
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada"
+    ],
+    "sentence_start_list": [5152680, 5181480, 5193600],
+    "sentence_sentiment_list": ["POSITIVE", "POSITIVE", "POSITIVE"]
+  },
+  {
+    "phrase": "engagement dialogue",
+    "count": 3,
+    "pos_count": 3,
+    "neg_count": 0,
+    "neu_count": 0,
+    "sent_uid_list": ["sent_301_233", "sent_301_300", "sent_301_373"],
+    "sentence_speaker_list": [
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [2046900, 2725050, 3506640],
+    "sentence_sentiment_list": ["POSITIVE", "POSITIVE", "POSITIVE"]
+  },
+  {
+    "phrase": "justice website",
+    "count": 3,
+    "pos_count": 2,
+    "neg_count": 1,
+    "neu_count": 0,
+    "sent_uid_list": ["sent_301_285", "sent_301_316", "sent_301_318"],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [2583300, 2937030, 2973240],
+    "sentence_sentiment_list": ["POSITIVE", "POSITIVE", "NEGATIVE"]
+  },
+  {
+    "phrase": "communications shop",
+    "count": 3,
+    "pos_count": 3,
+    "neg_count": 0,
+    "neu_count": 0,
+    "sent_uid_list": ["sent_301_303", "sent_301_309", "sent_301_329"],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [2768040, 2847870, 3080610],
+    "sentence_sentiment_list": ["POSITIVE", "POSITIVE", "POSITIVE"]
+  },
+  {
+    "phrase": "call for proposals",
+    "count": 3,
+    "pos_count": 1,
+    "neg_count": 0,
+    "neu_count": 2,
+    "sent_uid_list": ["sent_301_333", "sent_301_358", "sent_301_365"],
+    "sentence_speaker_list": [
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Marie-\u00c8ve Duperr\u00e9 - Justice Canada"
+    ],
+    "sentence_start_list": [3151500, 3380250, 3425160],
+    "sentence_sentiment_list": ["POSITIVE", "NEUTRAL", "NEUTRAL"]
+  },
+  {
+    "phrase": "human rights",
+    "count": 3,
+    "pos_count": 3,
+    "neg_count": 0,
+    "neu_count": 0,
+    "sent_uid_list": ["sent_301_403", "sent_301_460", "sent_301_497"],
+    "sentence_speaker_list": [
+      "Celine Henry Justice Canada",
+      "Janine Stingel - Justice Canada",
+      "Janine Stingel - Justice Canada"
+    ],
+    "sentence_start_list": [3792540, 4405380, 4864920],
+    "sentence_sentiment_list": ["POSITIVE", "POSITIVE", "POSITIVE"]
+  }
+]

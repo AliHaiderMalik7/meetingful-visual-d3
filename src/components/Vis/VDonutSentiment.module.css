@@ -1,0 +1,33 @@
+.container {
+  position: relative;
+}
+
+.svg {
+  display: block;
+  width: 100%;
+  overflow: visible;
+}
+
+.focusArcPath {
+  pointer-events: none;
+  stroke-width: 2px;
+  stroke: var(--color-dark-900);
+  fill: none;
+}
+
+.arcLabel {
+  font: var(--font-body1);
+  color: var(--color-dark-900);
+}
+
+.tooltipMain {
+  display: flex;
+  align-items: center;
+  font: var(--font-body2);
+  color: var(--color-dark-900);
+}
+
+.tooltipSupplement {
+  font: var(--font-body4);
+  color: var(--color-dark-700);
+}

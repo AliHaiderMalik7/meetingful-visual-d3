@@ -1,0 +1,7 @@
+.hotSpotLegend {
+  font: var(--font-body3);
+  color: var(--color-dark-900);
+  background-color: var(--color-secondary-100);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
