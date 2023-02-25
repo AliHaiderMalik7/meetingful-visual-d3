@@ -1,35 +1,16 @@
-import { Card, ConfigProvider, Layout, Space, Tabs, theme } from "antd";
+import { Card, ConfigProvider, Layout, Space, theme } from "antd";
 import MeetingSentimentAtAGlance from "./components/MeetingDetails/MeetingSentimentAtAGlance";
-import MeetingDetailsTabSentimentAnalysis from "./components/MeetingDetails/TabSentimentAnalysis";
-import MeetingDetailsTabKeyTopics from "./components/MeetingDetails/TabKeyTopics";
+import MeetingHighlights from "./components/MeetingDetails/MeetingHighlights";
 
 // V.css contains shared styles for all visualization components
 import "./components/Vis/V.css";
 
-const { Header, Sider, Content } = Layout;
+const { Sider, Content } = Layout;
 
 function App() {
   const {
     token: { sizeLG },
   } = theme.useToken();
-
-  const tabs = [
-    {
-      key: "tab-1",
-      label: "Meeting Essentials",
-      children: "Meeting Essentials",
-    },
-    {
-      key: "tab-2",
-      label: "Sentiment Analysis",
-      children: <MeetingDetailsTabSentimentAnalysis />,
-    },
-    {
-      key: "tab-3",
-      label: "Key Topics",
-      children: <MeetingDetailsTabKeyTopics />,
-    },
-  ];
 
   return (
     <ConfigProvider
@@ -45,17 +26,15 @@ function App() {
         }}
         className="v"
       >
-        <Header
-          style={{
-            background: "var(--color-primary-900)",
-          }}
-        ></Header>
         <Layout>
           <Sider
             width={250}
             theme="light"
             breakpoint="lg"
             collapsedWidth="0"
+            style={{
+              background: "var(--color-primary-900)",
+            }}
           ></Sider>
           <Content style={{ background: "#F5F5F5", padding: sizeLG }}>
             <Space
@@ -63,9 +42,11 @@ function App() {
               size="large"
               style={{ display: "flex" }}
             >
-              <MeetingSentimentAtAGlance />
               <Card>
-                <Tabs defaultActiveKey="tab-3" centered items={tabs} />
+                <MeetingSentimentAtAGlance />
+              </Card>
+              <Card>
+                <MeetingHighlights />
               </Card>
             </Space>
           </Content>

@@ -1,4 +1,4 @@
-import { Card, Space } from "antd";
+import { Space } from "antd";
 
 import VMeetingSentimentAtAGlanceDonut from "../Vis/VMeetingSentimentAtAGlanceDonut";
 import VMeetingSentimentAtAGlanceBigNumberTotal from "../Vis/VMeetingSentimentAtAGlanceBigNumberTotal";
@@ -42,62 +42,56 @@ const MeetingSentimentAtAGlanceItem = ({ chart, body, action }) => {
 
 function MeetingSentimentAtAGlance() {
   return (
-    <Card>
-      <Space direction="vertical" size="large" style={{ display: "flex" }}>
-        <h2
-          style={{
-            font: "var(--font-h3)",
-            color: "var(--color-dark-900)",
-            margin: 0,
-          }}
-        >
-          Meeting Sentiment At a Glance
-        </h2>
-        <Space
-          size="middle"
-          wrap
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "stretch",
-          }}
-        >
-          <MeetingSentimentAtAGlanceItem
-            chart={
-              <VMeetingSentimentAtAGlanceDonut data={overallSentimentData} />
-            }
-            body={
-              <div>
-                Your meeting followed an average distribution across negative,
-                neutral, and positive sentiment.
-              </div>
-            }
-            action={<a href="#">Details</a>}
-          />
-          <MeetingSentimentAtAGlanceItem
-            chart={<VMeetingSentimentAtAGlanceBigNumberTotal data={71} />}
-            body={
-              <div>
-                Your meeting did not generate an average number of sentiment for
-                the amount of time.
-              </div>
-            }
-            action={<a href="#">Solutions</a>}
-          />
-          <MeetingSentimentAtAGlanceItem
-            chart={
-              <VMeetingSentimentAtAGlanceBigNumberParticipants data={25} />
-            }
-            body={
-              <div>
-                This is below the normal average for a 90 minute meeting
-              </div>
-            }
-            action={<a href="#">Solutions</a>}
-          />
-        </Space>
+    <Space direction="vertical" size="large" style={{ display: "flex" }}>
+      <h2
+        style={{
+          font: "var(--font-h3)",
+          color: "var(--color-dark-900)",
+          margin: 0,
+        }}
+      >
+        Meeting Sentiment At a Glance
+      </h2>
+      <Space
+        size="middle"
+        wrap
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "stretch",
+        }}
+      >
+        <MeetingSentimentAtAGlanceItem
+          chart={
+            <VMeetingSentimentAtAGlanceDonut data={overallSentimentData} />
+          }
+          body={
+            <div>
+              Your meeting followed an average distribution across negative,
+              neutral, and positive sentiment.
+            </div>
+          }
+          action={<a href="#">Details</a>}
+        />
+        <MeetingSentimentAtAGlanceItem
+          chart={<VMeetingSentimentAtAGlanceBigNumberTotal data={71} />}
+          body={
+            <div>
+              Your meeting did not generate an average number of sentiment for
+              the amount of time.
+            </div>
+          }
+          action={<a href="#">Solutions</a>}
+        />
+        <MeetingSentimentAtAGlanceItem
+          chart={<VMeetingSentimentAtAGlanceBigNumberParticipants data={25} />}
+          body={
+            <div>This is below the normal average for a 90 minute meeting</div>
+          }
+          action={<a href="#">Solutions</a>}
+        />
       </Space>
-    </Card>
+    </Space>
   );
 }
 
