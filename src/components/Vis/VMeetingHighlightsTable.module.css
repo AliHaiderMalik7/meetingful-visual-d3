@@ -1,0 +1,7 @@
+.container thead > tr > th {
+  background-color: transparent !important;
+}
+
+.container thead > tr > th::before {
+  background-color: transparent !important;
+}

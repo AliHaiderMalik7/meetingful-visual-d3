@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 8px;
+}
+
+.pieSvg {
+  display: block;
+}
+
+.speaker {
+  font: var(--font-body2);
+  color: var(--color-dark-900);
+}
+
+.insight {
+  max-width: 80ch;
+  font: var(--font-body2);
+  color: var(--color-dark-700);
+}

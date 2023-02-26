@@ -1,0 +1,273 @@
+[
+  {
+    "utterance_start": 1053000,
+    "speaker": "Wanbdi Wakita",
+    "insight_types": ["opinion", "idea"],
+    "insights": [
+      "Opinion: Wanbdi Wakita believes that Creator gave us many things to do on this planet, and it is our responsibility to use them in a good way.",
+      "Idea: Wanbdi Wakita suggests that we should greet people, animals, the medicine, and everything with justice every day."
+    ]
+  },
+  {
+    "utterance_start": 1930000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Sarah appreciates the Elder's presence and believes that his words reminded her of a podcast she had heard about restorative justice."
+    ]
+  },
+  {
+    "utterance_start": 2192000,
+    "speaker": "Dana Sidebottom",
+    "insight_types": ["idea"],
+    "insights": [
+      "Idea: Dana suggests recording the session to ensure that the stories and insights shared by participants are accurately reflected in the report."
+    ]
+  },
+  {
+    "utterance_start": 2354000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Sarah believes that it is important to focus on actionable ideas and solutions to reduce systemic discrimination of Indigenous people."
+    ]
+  },
+  {
+    "utterance_start": 2629000,
+    "speaker": "Hazel Herrington",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Hazel believes that the work being done is important and difficult, and that it is necessary to create space for Indigenous partners to give feedback."
+    ]
+  },
+  {
+    "utterance_start": 2958000,
+    "speaker": "Kathleen Roussel",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Kathleen believes that it is important for people in her position to listen and make sure that training and policies address the issues raised by Indigenous peoples."
+    ]
+  },
+  {
+    "utterance_start": 3403000,
+    "speaker": "Molly W",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Molly believes that the current system needs to change, especially from the top, and that frontline workers are not wrapped up in policy and national media."
+    ]
+  },
+  {
+    "utterance_start": 3789000,
+    "speaker": "Wanbdi Wakita",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Wanbdi believes that truth and respect are essential in the justice system, and that people should be treated with compassion."
+    ]
+  },
+  {
+    "utterance_start": 4104000,
+    "speaker": "Molly W",
+    "insight_types": ["idea"],
+    "insights": [
+      "Idea: Molly suggests that when considering changes to the justice system, it is important to focus on what would benefit those most affected by it."
+    ]
+  },
+  {
+    "utterance_start": 4109000,
+    "speaker": "Molly W",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Molly believes that without understanding the truth of Canada's history, trust and relationships cannot be developed between Indigenous people and non-Indigenous service providers."
+    ]
+  },
+  {
+    "utterance_start": 4630000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["idea"],
+    "insights": [
+      "Idea: Sarah suggests that training should change how people relate to each other and should include teachings from the seven grandfathers."
+    ]
+  },
+  {
+    "utterance_start": 4726000,
+    "speaker": "Patricia Munro Lytton Restorative Justice",
+    "insight_types": ["opinion", "action_item"],
+    "insights": [
+      "Opinion: Patricia believes that restorative justice is a good process and that healing plans should be in place for offenders even if they are incarcerated.",
+      "Action Item: Create a letter of expectation with the RCMP and Crown that outlines the roles and responsibilities of all parties involved"
+    ]
+  },
+  {
+    "utterance_start": 5005000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["idea", "action_item"],
+    "insights": [
+      "Idea: Sarah suggests that patient navigators should be used to help people understand the steps of the justice system, and that the focus should be on reducing recidivism and providing opportunities for healing.",
+      "Action Item: Make patient navigators available to help people understand the process"
+    ]
+  },
+  {
+    "utterance_start": 5125000,
+    "speaker": "Grace Schedler",
+    "insight_types": ["opinion", "idea"],
+    "insights": [
+      "Opinion: Grace believes that Indigenous people should not be lumped into one big tribe, and that it is important to recognize the individual cultures, languages, and systems of each community.",
+      "Idea: Grace suggests introducing the eagle feather into courtrooms as an alternative to affirming on the Bible."
+    ]
+  },
+  {
+    "utterance_start": 5288000,
+    "speaker": "Katelyn Lucas - EFry Calgary - Soksipaitapiisin",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Katelyn believes that the system has a conflict of interest and is setting up individuals for failure upon release."
+    ]
+  },
+  {
+    "utterance_start": 5958000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Sarah believes that services should be tailored to meet the needs of Indigenous people across the country."
+    ]
+  },
+  {
+    "utterance_start": 6054000,
+    "speaker": "Dana Sidebottom (PubliVate)",
+    "insight_types": ["idea"],
+    "insights": [
+      "Idea: Creating spaces for people to share successes and struggles can help inspire other communities to try something that works for them."
+    ]
+  },
+  {
+    "utterance_start": 6507000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Sarah believes that it is shocking how Indigenous people's stories can be summed up in one page."
+    ]
+  },
+  {
+    "utterance_start": 7458000,
+    "speaker": "Prisoners' Legal Services",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: There is a lot of pressure on Indigenous people who work within the prison system not to be too challenging, and it is a continuation of genocide."
+    ]
+  },
+  {
+    "utterance_start": 7750000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["idea", "action_item"],
+    "insights": [
+      "Idea: Funding should come from a needs assessment of the community, rather than CSC imposing their structures.",
+      "Action Item: Establish a national body of Indigenous people with expertise in justice, guided by elders, to administer funding away from Correctional Service Canada (CSC)"
+    ]
+  },
+  {
+    "utterance_start": 7874000,
+    "speaker": "Christine Aye Govt. of NU",
+    "insight_types": ["opinion", "action_item"],
+    "insights": [
+      "Opinion: Christine believes that the criminal justice system should be victim-focused and that there is a lack of infrastructure and resources available for victims compared to offenders.",
+      "Action Item: Take a holistic approach when addressing crime, with a call to action to other frontline service providers to meet the needs of individuals"
+    ]
+  },
+  {
+    "utterance_start": 8296000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["opinion", "action_item"],
+    "insights": [
+      "Opinion: Sarah believes that preventative measures, such as reconnecting with culture and language, can help individuals accused of crime throughout the justice system.",
+      "Action Item: Reconnecting with culture, language, and community can help individuals accused of crime throughout the process"
+    ]
+  },
+  {
+    "utterance_start": 8604000,
+    "speaker": "Wanbdi Wakita",
+    "insight_types": ["opinion", "idea", "action_item"],
+    "insights": [
+      "Opinion: Wanbdi believes that Indigenous people should have their own jail system, and that the current prison system is outdated and does not provide adequate services to Indigenous people.",
+      "Idea: Wanbdi suggests that Indigenous people should have their own jail system for a period of 10 years, in order to provide better services and programs to Indigenous inmates.",
+      "Action Item: Establish an Indigenous jail, run by Indigenous people for a period of 10 years, to demonstrate the effectiveness of Indigenous culture"
+    ]
+  },
+  {
+    "utterance_start": 9615000,
+    "speaker": "Molly W",
+    "insight_types": ["opinion", "action_item"],
+    "insights": [
+      "Opinion: Molly believes that the justice system and child and family services are reactionary programs, and that Canada needs to check itself and put processes in place without relying on consultants or policymakers. She also believes that there needs to be oversight on how Canada is either continuing its behaviour or helping Indigenous people, and that it should listen when elders speak.",
+      "Action Item: Highlight the importance of language and connection to land in order to prevent suicide"
+    ]
+  },
+  {
+    "utterance_start": 10151000,
+    "speaker": "Christine Aye Govt. of NU",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Christine believes that the Western approach to measuring success does not always translate into programs, and that programs should have a say in how they use available funding."
+    ]
+  },
+  {
+    "utterance_start": 10693000,
+    "speaker": "Molly W",
+    "insight_types": ["opinion", "action_item"],
+    "insights": [
+      "Opinion: Molly believes that it is possible to imagine a world without Indigenous child and family services, and that this should be the goal.",
+      "Action Item: Imagine a Canada without an overrepresented Indigenous population in the justice system"
+    ]
+  },
+  {
+    "utterance_start": 10925000,
+    "speaker": "Sara Young Pine",
+    "insight_types": ["opinion"],
+    "insights": [
+      "Opinion: Sara believes that the work of seven generations before her has allowed her to be in the position she is in now and that the engagements have been heartfelt."
+    ]
+  },
+  {
+    "utterance_start": 11074000,
+    "speaker": "Dana Sidebottom",
+    "insight_types": ["idea"],
+    "insights": [
+      "Idea: Dana suggests that it is important to continue to echo the same message and be passionate about it, even if everyone in the room already agrees with it."
+    ]
+  },
+  {
+    "utterance_start": 9463000,
+    "speaker": "Molly W",
+    "insight_types": ["action_item"],
+    "insights": [
+      "Action Item: Do what is from their heart, not be money or policy driven, and that programs that are successful should not be defunded"
+    ]
+  },
+  {
+    "utterance_start": 9945000,
+    "speaker": "Grace Schedler",
+    "insight_types": ["action_item"],
+    "insights": [
+      "Action Item: Take a non-linear approach when working with clients due to the fact that each client is in a different place and not on the same path"
+    ]
+  },
+  {
+    "utterance_start": 10437000,
+    "speaker": "Hazel Herrington",
+    "insight_types": ["action_item"],
+    "insights": [
+      "Action Item: Make space for Indigenous participation in the colonial system"
+    ]
+  },
+  {
+    "utterance_start": 10616000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["action_item"],
+    "insights": ["Action Item: Be passionate about the message and echo it"]
+  },
+  {
+    "utterance_start": 10819000,
+    "speaker": "Sarah Herr",
+    "insight_types": ["action_item"],
+    "insights": ["Action Item: Aim for world peace"]
+  }
+]

@@ -1,0 +1,22 @@
+.svg {
+  display: block;
+  overflow: visible;
+}
+
+.axis line {
+  color: var(--color-outline);
+}
+
+.item {
+  cursor: pointer;
+}
+
+.overlayItem {
+  pointer-events: none;
+}
+
+.overlayOutline {
+  stroke-width: 2px;
+  stroke: var(--color-dark-900);
+  fill: none;
+}

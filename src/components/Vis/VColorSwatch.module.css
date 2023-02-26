@@ -1,16 +1,33 @@
+label {
+  cursor: pointer;
+}
+
+label,
 .container {
   display: inline-flex;
   align-items: center;
 }
 
 .swatch {
-  width: 16px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
   border-radius: 4px;
+  border: 1px solid currentColor;
+  background-color: currentColor;
+  margin-right: 10px;
+}
+
+:not(:checked) + label .swatch {
+  background-color: transparent;
 }
 
 .label {
   text-transform: capitalize;
   font: var(--font-body3);
   color: var(--color-dark-900);
+  user-select: none;
+}
+
+:not(:checked) + label .label {
+  color: var(--color-dark-700);
 }

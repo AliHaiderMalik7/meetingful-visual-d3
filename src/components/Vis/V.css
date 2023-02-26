@@ -26,4 +26,17 @@
   --color-neutral: #9bbeb1;
   --color-negative: #fa9a8b;
   --color-error: #e70c25;
+  --color-action_item: #8da0cb;
+  --color-idea: #fc8d62;
+  --color-opinion: #66c2a5;
+}
+
+.v .visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }

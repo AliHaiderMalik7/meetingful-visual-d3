@@ -1,4 +1,7 @@
 import { Space } from "antd";
+import VMeetingHighlights from "../Vis/VMeetingHighlights";
+
+import insightsData from "../../data/insights.json";
 
 function MeetingHighlights() {
   return (
@@ -10,8 +13,9 @@ function MeetingHighlights() {
           margin: 0,
         }}
       >
-        Meeting Highlights
+        Your Meeting Highlights
       </h2>
+      <VMeetingHighlights data={insightsData} />
     </Space>
   );
 }

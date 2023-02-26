@@ -50,7 +50,7 @@ const useChartDimensions = (ref, passedSettings) => {
     width: dimensions.width || width,
     height: dimensions.height || height,
   });
-  return [newSettings];
+  return newSettings;
 };
 
 export default useChartDimensions;

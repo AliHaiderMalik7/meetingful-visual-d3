@@ -1,0 +1,13 @@
+.svg {
+  display: block;
+  overflow: visible;
+}
+
+.axis line {
+  color: var(--color-outline);
+}
+
+.axis text {
+  font: var(--font-body4);
+  color: var(--color-dark-700);
+}
