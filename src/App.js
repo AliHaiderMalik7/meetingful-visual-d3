@@ -2,6 +2,7 @@ import { Card, ConfigProvider, Layout, Space, theme } from "antd";
 import MeetingSentimentAtAGlance from "./components/MeetingDetails/MeetingSentimentAtAGlance";
 import MeetingHighlights from "./components/MeetingDetails/MeetingHighlights";
 import SentimentMeetingTone from "./components/MeetingDetails/SentimentMeetingTone";
+import ParticipantSentiment from "./components/MeetingDetails/ParticipantSentiment";
 
 // V.css contains shared styles for all visualization components
 import "./components/Vis/V.css";
@@ -48,6 +49,9 @@ function App() {
               </Card>
               <Card>
                 <SentimentMeetingTone />
+              </Card>
+              <Card>
+                <ParticipantSentiment />
               </Card>
               <Card>
                 <MeetingHighlights />
