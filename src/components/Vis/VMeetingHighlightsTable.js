@@ -75,6 +75,7 @@ const VMeetingHighlightsTable = ({ data, selected }) => {
           }
         },
       }}
+      sticky
       scroll={{
         x: MIN_TABLE_WIDTH,
       }}
