@@ -130,7 +130,7 @@ const VDotHistogram = ({
   const dotBandwidth = 16;
   const dotPadding = 4;
   const dotStep = dotBandwidth + dotPadding;
-  const dotCornerRadius = 4;
+  const dotCornerRadius = dotBandwidth / 2; // Make it circular
 
   const xMax = useMemo(() => {
     const d = data[data.length - 1];
